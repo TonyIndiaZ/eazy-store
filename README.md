@@ -82,9 +82,7 @@ eazy-store as a reference-quality full-stack project with Java Spring Boot + Mic
 - Maven
 - Docker & Docker Compose
 
-### 🔄 Clone & Setup
 
-```bash
-git clone https://github.com/your-username/eazy-store.git
-cd eazy-store
+
+
 
