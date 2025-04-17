@@ -81,8 +81,3 @@ eazy-store as a reference-quality full-stack project with Java Spring Boot + Mic
 - Node.js & npm
 - Maven
 - Docker & Docker Compose
-
-
-
-
-
