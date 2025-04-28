@@ -303,7 +303,27 @@ RESULT: I think I am selected as they have added me into their Teams and Wipro m
  
  
  
+=========== Akhileshwari
 
+why spring boot
+spring bean
+application context
+when is constructor created ?
+diff btwn controller and rest controller
+does ModelAndView is supported in spring boot
+@configuration and @componentScan @EnableAutoConfiguration
+how authentication happens in RestAPI
+RestAPI methods: POST, GET,...
+@Autowired
+sort and array and find k th element
+Profiling
+how profiling helps us? 
+Is java call by value or call by reference
+how to make http calls
+threads
+Time and space complexity in sorting
+how streams api work
+what algorithm is used in sorting
 
 
 
