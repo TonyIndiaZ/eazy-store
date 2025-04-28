@@ -1,0 +1,353 @@
+JAVA TRACK INTERVIEW QUESTIONS – SAMPLE & INDICATIVE ONLY.  THERE MAY BE DIFFERENT QUESTIONS THAT ARE NOT IN THE LIST WILL BE ASKED.  BE PREPARED. 
+
+Few Interview Questions
+
+	•	Questions on Microservices communication like How two microservices communicate each other
+	•	Questions on SpringSecurity, like Configuring spring security etc..
+	•	Expecting azure and cicd knowledge
+	•	Difference between Restapi and graphQl
+	•	Circutbraker in microservices ✅
+	•	Springboot annotations
+	•	Diff JPA and Hibernate
+	•	Difference between Spring and spring boot
+	•	How to use circuit braker ✅
+	•	Difference between Oauth and JWT
+	•	Implementation of Authentication and authorization in spring boot
+	•	@Spring boot application annotation  ✅
+	•	How does springboot auto config work ✅
+
+Other Questions
+
+	•	What is Spring Boot, and why should I use it?
+	•	How do I create a Spring Boot application
+	•	What is the main class in a Spring Boot application
+	•	What does the @SpringBootApplication annotation do
+	•	How can you configure properties in a Spring Boot application?
+	•	How do you handle exceptions in Spring Boot?
+	•	What is Spring Boot Actuator and what are its benefits?
+	•	How can you enable and use Actuator endpoints in a Spring Boot application?
+	•	What are Spring Profiles and how do you use them?
+	•	How do you test a Spring Boot application?
+	•	How can you secure a Spring Boot application?
+	•	What is a Spring Boot Starter and why is it useful?
+	•	How can you configure a DataSource in Spring Boot?
+	•	What is Spring Boot DevTools and how does it enhance development?
+	•	How can you handle different environments in a Spring Boot application?
+	•	What are the differences between @Component, @Service,@Repository, and @Controller annotations?
+ 
+
+	•	Diff b/w spring and springboot
+	•	Questions on Microservices communication
+	•	Questions on SpringSecurity
+	•	Expecting reactjs and azure and cicd knowledge
+	•	No questions were asked about core java questions 
+	•	diff Restapi and graphQl
+	•	Circutbraker in microservices
+	•	Springboot annotations
+
+
+	•	Difference between Spring and spring boot
+	•	How two microservices communicate each other
+	•	How to use circuit braker
+	•	Configuring spring security
+	•	Difference between Oauth and JWT
+	•	Implementation of Authentication and authorization in spring boot
+	•	@Spring boot application annotation
+	•	How does springboot auto config work
+
+	•	Can you describe the project you worked on and your key responsibilities in it?
+	•	Have you handled any production issues? If so, how did you identify and resolve them?
+	•	What is the end-to-end process of deploying an application to Pivotal Cloud Foundry (PCF) using CI/CD pipelines?
+	•	When a production issue occurs, what steps do you follow to troubleshoot and resolve it using Splunk?
+	•	What are some disadvantages of Spring Boot, and how do you migrate them to pcf?
+	•	How does the main class in a Spring Boot application work internally?
+	•	How have you implemented OAuth authentication in a Spring Boot application?
+	•	How do microservices communicate with each other in a distributed system?
+	•	How do you configure and externalize properties in a Spring Boot project, and how does it work in PCF?
+	•	If a property value changes in a Spring Boot application, do you need to redeploy the code? If not, how does it work?
+
+
+	•	1.Questions on Migration changes.
+	•	2. Log tracing in splunk.
+	•	3. UCD vs Harness.
+	•	4. Maven vs Gradle.
+	•	5. Questions on spring oauth2.
+	•	6. Java 11 features.
+	•	7. Design patterns in microservices.
+	•	8. Some real time questions, like Any critical issue which you resolved recently.
+	•	9. Day to daily activities in your project.
+	•	10. PR Merge & code reviews.
+	•	11. Quality checks and vulnerabilities.
+	•	12. Questions on identifying the root cause of the issues if any. 
+	•	13. Questions on CiCD pipeline or deployments. Etc.
+
+
+	•	Explain about the project in detail.
+	•	Diff b/w UCD and Harness
+	•	Splunk use case and query to get dashboards
+	•	Harness Deployments in diff env's
+	•	CR creation details
+	•	Java 8 features challenges face in upgrade of java 8 to java 11 or java 11
+	•	how to update Build pack for different apps individually and custom build packs.
+	•	Diff b/w @Controller and @RestController
+	•	what is Spring boot annotations
+	•	Describe about Agile methodology
+	•	Stages in jenkins
+	•	Diff scans used in the pipeline
+	•	how you fixed Bugs fix and SEV issues in prod env
+	•	what are Microservices ?
+	•	About Eureka?
+	•	what is API gate way?
+	•	communication b/w services?
+	•	what is containerisation ?
+	•	why circuit Breaker Needed?
+
+
+	•	What are the roles you were been assigned in your projects.
+	•	Explain about SDLC and how you have implemented it in your project.
+	•	Brief me about your latest project and what are the challenges you faced in your project.
+	•	Asked about how familiar you are with production support and asked about any Experience in handling the production support.
+	•	
+
+==========================
+
+Java -> advanced Java (Collections, Map, Exception Handling, Multithreading, JDBC ...)
+
+Servlets  ->  Request ,Response
+-----
+Dispatcher servet : MVC (web.xml / @WebServlet)
+-----
+
+Spring -> Ioc , DI ( xml to annotation )
+
+
+Springboot : Spring MVC, Rest API's , Spring AOP, Transaction Management,  Logging, Hibernate(caching), Spring DATA JPA, Spring Security(JWT , OAuth2)
+
+req ====> Filter =====> Dispatcher servet ========= Interceptor => Controller
+
+
+
+============================
+
+
+TCS :
+Exception handling 
+How does spring -annotations works
+method overloading vs methodoverriding
+microservice deployement
+sql queries
+Handson coding on HashMap
+Internal working of HashMap
+Collections
+JVM memory management
+
+
+
+
+
+1)Java  and Spring boot  version
+2)Api gateways
+3)security -> jwt token or anything else
+4) Cloud server - Azure/AWS/GCP..
+5) message queue -> RabbitMq /kafka ...
+ 
+Java 17 and Spring Boot 3X
+Cloud Gateway
+Third Party O Auth 2.0 by Okta
+Pivotal Cloud Foundry (PCF)
+JMS
+
+
+
+=============== Manjunatha
+
+java 8 feature
+functional interface
+API gateway -zuul
+PCF logs - splunk logs
+Service discovery
+create immutable class
+rest api
+annotations used in repo
+how we create repo class
+Spring profiling
+Design patterns used in ur application
+circuit Breaker pattern
+global exception handling
+Dependency injection
+how do make rest template call > exchange method
+List operations using streams
+find strings with length greater than 5
+find all unique strings
+convert to upper case
+sort the elements
+ 
+ 
+UHG 
+MyProfile - Backend Developer
+{Interview Organizer - rohan.m82@wipro.com}
+First Round Panels (1Hr)
+----------------------------
+umagowri.marrapu@optum.com
+sundeep.tatineni@optum.com
+------------------------------------------------------
+Interviewer - Sundeep
+Questions:- (Basics of Java, Springboot)
+A)Introduce yourself
+	1)What is Encapsulation?
+	2)What is Polymorphism?
+	3)What is 'static'? Why to use it? (classes and variables)
+	4)JRE vs JDK
+	4)Design Patterns
+	5)Demonstrate Builder Pattern in Notepad
+	6)Demonstrate Singleton Pattern in Notepad
+	7)Any experience on Terraform? No
+	8)Any experience in Kafka or similar technologies
+	8)Explain 'pom.yml'?
+	9)What are dependencies? Why do you use dependencies in pom.yml?
+   10)Explain the structure of dependency in pom.yml?
+   11)Sql vs NoSql
+   12)Explain technologies used in previous projects?
+
+Second Round Panels (1Hr)
+----------------------------
+umagowri.marrapu@optum.com
+sundeep.tatineni@optum.com
+abdullah.kapadia@optum.com
+------------------------------------------------------
+Interviewer for 1st half hour - Abdullah (from US)
+Questions:- (Java and Springboot)
+A)Introduce yourself
+	1)What is Polymorphism?
+	2)Explain Inheritence.
+	3)Diff. between Abstract class and Interface
+	4)Method Overriding and Method Overloading
+	5)Multithreading concepts. (More questions if worked on multithreading)
+	6)Completablefuture and Executorservice
+ExecutorService focuses on managing thread pools and executing tasks concurrently. It offers methods for creating thread pools with different configurations, such as fixed-size, cached, and scheduled.
+	ExecutorService execute = Executors.newFixedThreadPool(3);
+	 Future <integer> future = executor.submit(()->{
+return 42;
+	}
+CompletableFuture
+In contrast, CompletableFuture provides a higher-level abstraction for composing asynchronous operations. It focuses on defining the workflow and handling the eventual results of asynchronous task
+	CompletableFuture<integer> future = CompletableFuture.SuppyAync(()-> {
+}
+	7)Garbage Collection in Java
+Using System.gc() method: System class contain static method gc() for requesting JVM to run Garbage Collector.
+Using Runtime.getRuntime().gc() method: Runtime class allows the application to interface with the JVM in which the application is running. Hence by using its gc() method, we can request JVM to run Garbage Collector
+	8)Memory optimization in java
+before Java 8 we have PermGen always has a fixed maximum size. Later in Java 8 - Metaspace by default auto increases its size depending on the underlying OS.
+	9)Heap memory and Stack memory
+Heap memory is used by all the parts of the application whereas stack memory is used only by one thread of execution. Whenever an object is created, it's always stored in the Heap space and stack memory contains the reference to it
+   10)Diff. between HashMap and TreeMap? Are they thread safe?
+The primary function of TreeMap is to maintain order. It helps us in the storage of keys in a sorted manner in ascending order. The HashMap does not function to maintain any order. The primary function of the LinkedHashMap is to maintain an order in which we would insert the key-value pairs.
+HashMap implements Map interface while TreeMap implements SortedMap interface. A Sorted Map interface is a child of Map. HashMap implements Hashing, while TreeMap implements Red-Black Tree(a Self Balancing Binary Search Tree).
+HashMap implements Map interface while TreeMap implements SortedMap interface. A Sorted Map interface is a child of Map. HashMap implements Hashing, while TreeMap implements Red-Black Tree(a Self Balancing Binary Search Tree).
+TreeMap does not allow duplicate keys,
+TreeMap does allow null keys. but allows null values. 
+Thread safety is not inherent to TreeMap
+The HashMap is unordered .
+Why HashMap is not thread-safe?
+The reason is that the HashMap object referenced by the static variable cache is shared by all calls to isPrime() , and HashMap is not threadsafe. If multiple threads mutate the map at the same time, by calling cache. 
+It allows single null key and multiple null values.
+
+   11)Explain @Component and @Bean annotations.
+   11)What is @ComponentScan and scanBasePackages?
+   12)Have you worked on Spring Security? How do you configure security in your application(using spring security)?
+   12)How do you perform validations in Springboot? (Using IValidator interface)
+   13)Why do you use S3 in AWS?
+   14)How do you implement Security in AWS API Gateway?
+   15)In SQL.. Have you worked on Indexes?
+   16)MongoDB structure [Collections/Documents]
+   17)How do you create indexes in MongoDB? (MongoDB creates default key, but I used Random UUID generator instead of default)
+   18)How do you create composite indexes in MongoDB(hierarchies)? 
+         (I didn't work on that scenario but I think, we can use default ones or use multiple UUIDs for that)
+B)Scenario Based Question..(Data Structures)
+        I have a sorted array of some random numbers   =>  int[] numArray = {1,2,3,5,7,8,11}   
+		  I need to pick two numbers whose sum is 9. (1&8, 2&7) 
+		  Explain me the algorithm. (I explained him traditional way. But he said it has time complexity issue.) 
+		  My approach : [9-1 =8 if 8 contains in array or not] (if yes then 1,8)
+		                [9-2 =7 if 7 contains in array or not] (if yes then 2,7)
+						[9-3 =6 if 6 contains in array or not]
+						[9-5 =4 if 4 contains in array or not]
+ 
+Interviewer for 2nd half hour - Umagowri
+Questions:- (Managerial)
+A)Introduce yourself
+	1)Explain your experience in Pharmacy Domain (person specific)
+	2)How many resources are you leading?
+	3)Code reviews/ guidance to juniors...
+	4)Any experience in Terraform?
+	5)How do you autoscale microservices? (Advised me to focus more on Autoscaling as they(UHG) have millions of user base)
+	6)Your daily activities as Team Lead.
+	7)Discussion on Agile Methodology, Scrum meetings, Sprints, stories etc..
+	8)Did you face performance issues anytime? How did you fix it?
+B)Scenario based Questions:	
+	9)You are working with a colleague, and you have a better solution than him to implement, but he is not ready to listen? How do you handle such situation?
+	  My Ans: Forunately, I worked with good team members till now. But if I have to deal with it then, If he is my junior, I will take ownership and 
+	          implement my solution. If he is of my equal or higher cader, I will approach my manager and explain him
+              and try to convince him, how and why my solution is better, and then will let my manager take the final call.
+    10)What if you face the same problem with your manager? 
+       My Ans: My manager has more experience than me, so I am open to listen to his perspective as well. May be has a better solution which I am not aware of..
+               So, we will discuss and analyse the best solution.
+   11)What if your manager in non-technical/from different domain, and only you know a better solution but he is not ready to listen?
+       My Ans: In the corporate world, maintaining good relations with team and managers is key to success. I believe that I can convince my 
+               manager that my solution is better, if I am maintaining good relationship with my Manager. At the end, its all about 
+               delivering quality product to customer. No place for Ego in Workplace :)
+<He told me that he liked my approach, and said he was done from his side>
+RESULT: I think I am selected as they have added me into their Teams and Wipro mails group.	
+        Sending me mails to complete AZURE trainings..
+        Started Background verification process.. 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
