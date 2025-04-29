@@ -327,6 +327,11 @@ what algorithm is used in sorting
 
 
 
+============ Sai Kumar
+How to configure two Datasource in springboot
+
+DB queries : NamedQueries, jdbctemplate vs datajpa vs hibernate
+
 
 
 
